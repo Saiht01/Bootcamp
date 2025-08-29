@@ -1,6 +1,16 @@
-# Bootcamp
+# Bootcamp: Data Science
 
-Proyecto final Dashboard Interactivo  
+Este repositorio reúne ejercicios y proyectos prácticos enfocados en **ciencia de datos y aprendizaje automático** utilizando Python.  
+
+Incluye el desarrollo de actividades que abarcan:  
+- Fundamentos de programación en **Python**.  
+- Manipulación y análisis de datos con **Pandas** y **NumPy**.  
+- Técnicas de **análisis exploratorio de datos (EDA)**.  
+- Modelos de **aprendizaje supervisado** (clasificación y predicción).  
+- Métodos de **aprendizaje no supervisado** (clustering y detección de patrones).  
+- **Regresión** y desarrollo de proyectos aplicados a datos reales.  
+
+## Proyecto final Dashboard Interactivo  
 
 Reporte dinámico en **Power BI** sobre **seguridad y criminalidad en Colombia (2023-2024)**.  
 
