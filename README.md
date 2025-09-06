@@ -23,4 +23,4 @@ El tablero incluye:
 
 Este dashboard permite identificar **patrones delictivos**, analizar la **evolución temporal** y reconocer las **zonas de mayor incidencia**, apoyando la toma de decisiones en temas de seguridad.  
 
- [Ver tablero en Power BI](https://app.powerbi.com/view?r=eyJrIjoiOWY4ZmRiMGEtZTg0OS00MWIwLWI2M2QtNDUwZmFhM2UxNTU3IiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9&pageName=b7d392a62de48e2070a4)
+ [Ver tablero en Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjI2N2FmZmYtNmVhNy00MjQxLTkwMzMtNDg5MjhmNTVlNmU4IiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9&pageName=b7d392a62de48e2070a4)
