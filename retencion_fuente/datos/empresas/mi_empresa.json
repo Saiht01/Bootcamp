@@ -1,0 +1,99 @@
+{
+  "nombre": "Mi Empresa S.A.S.",
+  "nit": "900000000-0",
+  "tipo_persona": "juridica",
+  "agente_retencion_renta": true,
+  "regimen_simple": false,
+  "gran_contribuyente": false,
+  "agente_reteiva_designado": false,
+  "entidad_estatal": false,
+  "responsable_iva": true,
+  "autorretenedor": false,
+  "agente_reteica": true,
+  "municipio": "Bogotá D.C.",
+  "reteica_base_min_uvt": {
+    "bien": 27,
+    "servicio": 4,
+    "otro": 0
+  },
+  "tarifa_reteiva": 0.15,
+  "responsabilidades": [
+    "05",
+    "07",
+    "14",
+    "42",
+    "48",
+    "52"
+  ],
+  "proveedores": [
+    {
+      "nombre": "Ferretería El Tornillo S.A.S.",
+      "nit": "901111111-1",
+      "tipo_persona": "juridica",
+      "declarante": true,
+      "responsable_iva": true,
+      "autorretenedor": false,
+      "gran_contribuyente": false,
+      "regimen_simple": false,
+      "regimen_especial": false,
+      "no_contribuyente": false,
+      "no_residente": false,
+      "iva_prestador_exterior": false,
+      "sin_dos_trabajadores": false,
+      "sujeto_reteica": true,
+      "tarifa_ica_por_mil": 11.04,
+      "responsabilidades": [
+        "05",
+        "14",
+        "42",
+        "48",
+        "52"
+      ]
+    },
+    {
+      "nombre": "Ana Pérez (contadora independiente)",
+      "nit": "52000000",
+      "tipo_persona": "natural",
+      "declarante": false,
+      "responsable_iva": false,
+      "autorretenedor": false,
+      "gran_contribuyente": false,
+      "regimen_simple": false,
+      "regimen_especial": false,
+      "no_contribuyente": false,
+      "no_residente": false,
+      "iva_prestador_exterior": false,
+      "sin_dos_trabajadores": false,
+      "sujeto_reteica": true,
+      "tarifa_ica_por_mil": 9.66,
+      "responsabilidades": [
+        "49"
+      ]
+    },
+    {
+      "nombre": "Gran Distribuidora S.A.",
+      "nit": "860000000-1",
+      "tipo_persona": "juridica",
+      "declarante": true,
+      "responsable_iva": true,
+      "autorretenedor": true,
+      "gran_contribuyente": true,
+      "regimen_simple": false,
+      "regimen_especial": false,
+      "no_contribuyente": false,
+      "no_residente": false,
+      "iva_prestador_exterior": false,
+      "sin_dos_trabajadores": false,
+      "sujeto_reteica": true,
+      "tarifa_ica_por_mil": 11.04,
+      "responsabilidades": [
+        "05",
+        "13",
+        "15",
+        "42",
+        "48",
+        "52"
+      ]
+    }
+  ]
+}
